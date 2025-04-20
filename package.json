@@ -1,0 +1,23 @@
+{
+  "name": "sistema-nodejs-basico",
+  "version": "1.0.0",
+  "description": "projeto pratico inicial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Sistema-NodeJS-Basico"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Charles Tertulino Santos",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
